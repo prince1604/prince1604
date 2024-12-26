@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <center><title>To-Do List</title></center>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        #todo-container {
+            max-width: auto;
+            margin:view;
+        }
+        .todo-item {
+            display: flow-root;
+            flex-direction: row; 
+            align-items: center; 
+            justify-content: center; 
+            padding: 1px;
+            margin: 4px ;
+            margin-left: 0%;
+            background-color: #1991db4a;
+            border: 1px solid #082053;
+            border-radius: 5px;
+            opacity: 3%;
+            animation: slideIn 0.2s forwards;
+        }
+
+        @keyframes slideIn {
+            from {
+                transform: translateX(-100%);
+                opacity: 0;
+            }
+            to {
+                transform: translateX(0);
+                opacity: 1;
+            }
+        }
+
+        @keyframes fadeIn {
+            to {
+                opacity: 1;
+            }
+        }
+        @keyframes fadeOut {
+            to {
+                opacity: 2;
+            }
+        }
+        @keyframes shake {
+            0% { transform: translateX(0); }
+            25% { transform: translateX(-5px); }
+            50% { transform: translateX(5px); }
+            75% { transform: translateX(-5px); }
+            100% { transform: translateX(0); }
+        }
+        .edit-btn, .delete-btn {
+            border-color: black;
+            background-color: rgba(30, 89, 117, 0.215);
+            cursor: pointer;
+            font-size: 14px;
+            transition: background-color 0.3s;
+        }
+        .edit-btn:hover{
+            background-color: #103fcc7b;
+        }
+        .delete-btn:hover{
+            background-color: #9660608f;
+        }
+        .edit-btn {
+            color: blue;
+            border: #000000;
+            border-radius: 6px;
+            margin :  20px;
+        }
+        .delete-btn {
+            color: red;
+            border: #030303;
+            border-radius: 6px;
+            margin-left: 10px;
+        }
+        #add-item-btn {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body><center>
+    <div id="todo-container">
+        <h2>To-Do List</h2>
+        <input type="text" id="todo-input" placeholder="Add a new msg..." />
+        <button id="add-item-btn">Add Item</button>
+        <ul id="todo-list"></ul>
+    </div></center>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const todoInput = document.getElementById("todo-input");
+            const addItemBtn = document.getElementById("add-item-btn");
+            const todoList = document.getElementById("todo-list");
+            function createTodoItem(taskText) {
+    const li = document.createElement("li");
+    li.className = "todo-item";
+
+    const span = document.createElement("span");
+    span.textContent = taskText;
+
+    const editBtn = document.createElement("button");
+    editBtn.className = "edit-btn";
+    editBtn.textContent = "Edit";
+
+    const deleteBtn = document.createElement("button");
+    deleteBtn.className = "delete-btn";
+    deleteBtn.textContent = "Remove";
+
+    li.appendChild(span);
+    li.appendChild(editBtn);
+    li.appendChild(deleteBtn);
+
+    todoList.insertBefore(li, todoList.firstChild);
+
+    li.style.animation = "slideIn 0.5s forwards";
+
+    editBtn.addEventListener("click", () => {
+        li.style.animation = "shake 0.5s";
+        editTodoItem(li, span);
+    });
+    deleteBtn.addEventListener("click", () => removeTodoItem(li));
+}
+            function addTodoItem() {
+                const taskText = todoInput.value.trim();
+                if (taskText === "") {
+                    alert("Please enter a new msg!");
+                    return;
+                }
+                createTodoItem(taskText);
+                todoInput.value = "";
+            }
+            function editTodoItem(item, span) {
+    const newText = prompt("Edit your to-do msg:", span.textContent);
+    if (newText !== null && newText.trim() !== "") {
+        removeTodoItem(item);
+        createTodoItem(newText.trim());
+    }
+}
+
+            function removeTodoItem(item) {
+                item.style.animation = "fadeOut 0.3s forwards";
+                item.addEventListener("animationend", () => {
+                    item.remove();
+                });
+            }
+
+            addItemBtn.addEventListener("click", addTodoItem);
+
+            todoInput.addEventListener("keypress", (e) => {
+                if (e.key === "Enter") {
+                    addTodoItem();
+                }
+            });
+        });
+    </script>
+</body>
+</html>
