@@ -11,11 +11,17 @@
     <!-- text column -->
     <td valign="top">
 - 🎯 Developer & Cybersecurity Enthusiast passionate about building solutions that matter.
+      
 - 🌱 Currently exploring **Laravel**, **Python**, **AI**, and **Cybersecurity**.
+- 
 - 💬 Dedicated to mastering **Web Development**, **Security Automation**, and **Tech Innovation**.
+- 
 - 💡 Always looking for opportunities to **collaborate** and **create innovative projects**.
+- 
 - 🔍 Strong passion for **ethical hacking** and **penetration testing** with a focus on **web security**.
+- 
 - 📚 Constantly learning new technologies and improving problem-solving skills through real-world challenges.
+- 
 - 🌐 Fascinated by the intersection of **technology** and **society**, and working towards **building a more secure digital world**.
     </td>
     <!-- spacer column -->
