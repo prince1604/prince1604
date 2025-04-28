@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me:
 <div align="center">
-  <img alt="Hacking Terminal" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+  <img alt="Hacking Terminal" align="right-center" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </div>
 
 - 🎯 Developer & Cybersecurity Enthusiast passionate about building solutions that matter.
