@@ -3,7 +3,8 @@
 
 # 👋 Hi there, I'm Prince!
 
-<img align="right" alt="Hacking Terminal" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="Cybersecurity Animation" width="400" src="https://media.giphy.com/media/l41lHXd0Pc6g8h5nG/giphy.gif">
+
 
 
 ## 🧑‍💻 About Me:
@@ -43,8 +44,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prince1604&theme=radical" alt="Top Languages" />
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prince1604&theme=radical" alt="Stats" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prince1604&theme=radical&utcOffset=8" alt="Productive Time" />
   
 </div>
 
