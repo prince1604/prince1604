@@ -3,7 +3,7 @@
 
 # 👋 Hi there, I'm Prince!
 
-<img align="right" alt="Hacking Terminal" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="Hacking Terminal" width="350" hight="50" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 
 
