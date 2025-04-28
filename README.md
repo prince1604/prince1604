@@ -7,17 +7,24 @@
 
 ## 🧑‍💻 About Me:
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <div>
-    <p>- 🎯 Developer & Cybersecurity Enthusiast passionate about building solutions that matter.</p>
-    <p>- 🌱 Currently exploring Laravel, Python, AI, and Cybersecurity.</p>
-    <p>- 💬 Dedicated to mastering Web Development, Security Automation, and Tech Innovation.</p>
-    <p>- 🛠️ Believer in "Learn by Doing" — constantly pushing boundaries.</p>
-  </div>
-  <div>
-    <img alt="Hacking Terminal" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
-  </div>
-</div>
+<table>
+  <tr>
+    <!-- text column -->
+    <td valign="top">
+- 🎯 Developer & Cybersecurity Enthusiast passionate about building solutions that matter.<br/>
+- 🌱 Currently exploring Laravel, Python, AI, and Cybersecurity.<br/>
+- 💬 Dedicated to mastering Web Development, Security Automation, and Tech Innovation.<br/>
+- 🛠️ Believer in "Learn by Doing" — constantly pushing boundaries.
+    </td>
+    <!-- spacer column -->
+    <td width="30"></td>
+    <!-- gif column -->
+    <td valign="top">
+      <img alt="Hacking Terminal" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+    </td>
+  </tr>
+</table>
+
 
 ## 🛠️ Tech Stack:
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
