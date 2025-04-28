@@ -11,8 +11,11 @@
     <!-- text column -->
     <td valign="top">
 - 🎯 Developer & Cybersecurity Enthusiast passionate about building solutions that matter.<br/>
+      
 - 🌱 Currently exploring Laravel, Python, AI, and Cybersecurity.<br/>
+
 - 💬 Dedicated to mastering Web Development, Security Automation, and Tech Innovation.<br/>
+      
 - 🛠️ Believer in "Learn by Doing" — constantly pushing boundaries.
     </td>
     <!-- spacer column -->
