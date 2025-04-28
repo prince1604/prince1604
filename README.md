@@ -4,7 +4,6 @@
 
 # 👋 Hi there, I'm Prince!
 
-
 ## 🧑‍💻 About Me:
 
 <table>
@@ -18,16 +17,16 @@
 - 🔍 Strong passion for **ethical hacking** and **penetration testing** with a focus on **web security**.
 - 📚 Constantly learning new technologies and improving problem-solving skills through real-world challenges.
 - 🌐 Fascinated by the intersection of **technology** and **society**, and working towards **building a more secure digital world**.
-
     </td>
     <!-- spacer column -->
-    <td width="10"></td>
+    <td width="30"></td>
     <!-- gif column -->
     <td valign="top">
       <img alt="Hacking Terminal" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
     </td>
   </tr>
 </table>
+
 
 
 ## 🛠️ Tech Stack:
