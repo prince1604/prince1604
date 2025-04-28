@@ -3,19 +3,18 @@
 
 # 👋 Hi there, I'm Prince!
 
-<img align="right" alt="Hacking Terminal" width="350" hight="50" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-
-
 
 ## 🧑‍💻 About Me:
+<div align="center">
+  <img alt="Hacking Terminal" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+</div>
+
 - 🎯 Developer & Cybersecurity Enthusiast passionate about building solutions that matter.
-- 🌱 Currently exploring **Laravel**, **Python**, **AI**, and **Cybersecurity**.
-- 💬 Dedicated to mastering **Web Development**, **Security Automation**, and **Tech Innovation**.
+- 🌱 Currently exploring Laravel, Python, AI, and Cybersecurity.
+- 💬 Dedicated to mastering Web Development, Security Automation, and Tech Innovation.
 - 🛠️ Believer in "Learn by Doing" — constantly pushing boundaries.
 
 ---
-
 ## 🛠️ Tech Stack:
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
