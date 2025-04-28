@@ -10,7 +10,7 @@
   <tr>
     <!-- text column -->
     <td valign="top">
-- 🎯 Developer & Cybersecurity Enthusiast passionate about building solutions that matter.<br/>
+-> 🎯 Developer & Cybersecurity Enthusiast passionate about building solutions that matter.<br/>
       
 - 🌱 Currently exploring Laravel, Python, AI, and Cybersecurity.<br/>
 
