@@ -75,10 +75,10 @@
 ---
 
 ## 📫 Connect With Me:
-- 📧 Email: [princekothiya1604@example.com]
+- 📧 Email: princekothiya1604@example.com
 - 🌐 Website: [Coming soon!]
-- 🐦 Twitter: [@p1604kothiya] 
-- 💼 LinkedIn: [(https://www.linkedin.com/in/prince-kothiya-331073287?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3By7S3lqPvQaWK6769YO5a%2Fw%3D%3D)] 
+- 🐦 Twitter: @p1604kothiya
+- 💼 LinkedIn: https://www.linkedin.com/in/prince-kothiya-331073287?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3By7S3lqPvQaWK6769YO5a%2Fw%3D%3D
 
 ---
 
