@@ -22,10 +22,16 @@
     <td width="30"></td>
     <!-- gif column -->
     <td valign="top">
-      <img alt="Hacking Terminal" width="450" height="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+      <img
+        alt="Hacking Terminal"
+        src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+        width="450"
+        height="250"
+      />
     </td>
   </tr>
 </table>
+
 
 
 
