@@ -10,27 +10,21 @@
   <tr>
     <!-- text column -->
     <td valign="top">
-      - 🎯 Developer & Cybersecurity Enthusiast passionate about building solutions that matter.<br/>
-      - 🌱 Currently exploring **Laravel**, **Python**, **AI**, and **Cybersecurity**.<br/>
-      - 💬 Dedicated to mastering **Web Development**, **Security Automation**, and **Tech Innovation**.<br/>
-      - 🛠️ Believer in "Learn by Doing" — constantly pushing boundaries.<br/>
-      - 💡 Always looking for opportunities to **collaborate** and **create innovative projects**.<br/>
-      - 🔍 Strong passion for **ethical hacking** and **penetration testing** with a focus on **web security**.<br/>
-      - 📚 Constantly learning new technologies and improving problem-solving skills through real-world challenges.
+- 🎯 Developer & Cybersecurity Enthusiast passionate about building solutions that matter.<br/>
+- 🌱 Currently exploring Laravel, Python, AI, and Cybersecurity.<br/>
+- 💬 Dedicated to mastering Web Development, Security Automation, and Tech Innovation.<br/>
+- 🛠️ Believer in "Learn by Doing" — constantly pushing boundaries.
     </td>
     <!-- spacer column -->
     <td width="30"></td>
     <!-- gif column -->
     <td valign="top">
-      <img
-        alt="Hacking Terminal"
-        src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
-        width="450"
-        height="250"
-      />
+      <img alt="Hacking Terminal" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
     </td>
   </tr>
 </table>
+
+
 
 
 
