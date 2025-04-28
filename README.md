@@ -45,7 +45,7 @@
 
 ## 🚀 What I'm Working On:
 - Building Full-Stack Web Applications with **Laravel** + **MySQL**.
-- Automating Cybersecurity tasks using **Python**.
+- Automating Cybersecurity tasks using **Kali-linux**.
 - code , contribute , conquer .
 - Accelerating ideas into impact. PHP ~ Laravel ~ javascipt ~ Python .
 - Exploring **AI and Machine Learning** solutions for ethical hacking.
