@@ -3,7 +3,8 @@
 
 # 👋 Hi there, I'm Prince!
 
-<img align="right" alt="Cybersecurity Animation" width="400" src="https://media.giphy.com/media/l41lHXd0Pc6g8h5nG/giphy.gif">
+<img align="right" alt="Hacking Terminal" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
 
 
 
