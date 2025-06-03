@@ -41,13 +41,6 @@ I'm a Developer & Cybersecurity Enthusiast passionate about building impactful s
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prince1604&theme=radical" alt="GitHub Stats"/>
 </div>
 
----
-
-## 🐍 GitHub Contribution Snake
-
-![snake gif](https://github.com/prince1604/prince1604/blob/output/github-snake.svg)
-
----
 
 ## Fun Facts
 - 🎸 Guitar hobbyist: I enjoy creating code as elegantly as melodies.
