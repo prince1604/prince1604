@@ -22,7 +22,7 @@ I'm a Developer & Cybersecurity Enthusiast passionate about building impactful s
 ---
 
 ## Tech Stack
-<p>
+<p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/></a>
@@ -36,10 +36,16 @@ I'm a Developer & Cybersecurity Enthusiast passionate about building impactful s
 
 ## Projects & GitHub Stats
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prince1604&theme=radical" alt="Profile Details" style="max-width: 100%;"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prince1604&theme=radical" alt="Top Languages" style="max-width: 100%;"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prince1604&theme=radical" alt="GitHub Stats" style="max-width: 100%;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prince1604&theme=radical" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prince1604&theme=radical" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prince1604&theme=radical" alt="GitHub Stats"/>
 </div>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/prince1604/prince1604/blob/output/github-snake.svg)
 
 ---
 
